@@ -1,0 +1,12 @@
+<svg width="98" height="41" viewBox="0 0 98 41" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0 20.5C0 9.17816 9.17816 0 20.5 0C31.8218 0 41 9.17816 41 20.5C41 31.8218 31.8218 41 20.5 41C9.17816 41 0 31.8218 0 20.5Z" fill="white" fill-opacity="0.1"/>
+<path d="M25 16.5C26.6569 16.5 28 15.1569 28 13.5C28 11.8431 26.6569 10.5 25 10.5C23.3431 10.5 22 11.8431 22 13.5C22 15.1569 23.3431 16.5 25 16.5Z" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M13 23.5C14.6569 23.5 16 22.1569 16 20.5C16 18.8431 14.6569 17.5 13 17.5C11.3431 17.5 10 18.8431 10 20.5C10 22.1569 11.3431 23.5 13 23.5Z" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M25 30.5C26.6569 30.5 28 29.1569 28 27.5C28 25.8431 26.6569 24.5 25 24.5C23.3431 24.5 22 25.8431 22 27.5C22 29.1569 23.3431 30.5 25 30.5Z" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M15.59 22.01L22.42 25.99" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M22.41 15.01L15.59 18.99" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M57 20C57 8.95431 65.9543 0 77 0H78C89.0457 0 98 8.95431 98 20V21C98 32.0457 89.0457 41 78 41H77C65.9543 41 57 32.0457 57 21V20Z" fill="white" fill-opacity="0.1"/>
+<path d="M78 21.5C78.5523 21.5 79 21.0523 79 20.5C79 19.9477 78.5523 19.5 78 19.5C77.4477 19.5 77 19.9477 77 20.5C77 21.0523 77.4477 21.5 78 21.5Z" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M85 21.5C85.5523 21.5 86 21.0523 86 20.5C86 19.9477 85.5523 19.5 85 19.5C84.4477 19.5 84 19.9477 84 20.5C84 21.0523 84.4477 21.5 85 21.5Z" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M71 21.5C71.5523 21.5 72 21.0523 72 20.5C72 19.9477 71.5523 19.5 71 19.5C70.4477 19.5 70 19.9477 70 20.5C70 21.0523 70.4477 21.5 71 21.5Z" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,67 @@
+module.exports = {
+  mode: "jit",
+  content: [
+    "./src/**/**/*.{js,ts,jsx,tsx,html,mdx}",
+    "./src/**/*.{js,ts,jsx,tsx,html,mdx}",
+  ],
+  darkMode: "class",
+  theme: {
+    screens: { md: { max: "1050px" }, sm: { max: "550px" } },
+    extend: {
+      colors: {
+        white: {
+          A700_7f: "#ffffff7f",
+          A700_cc: "#ffffffcc",
+          A700_19: "#ffffff19",
+          A700: "#ffffff",
+        },
+        blue: { A400: "#387cff" },
+        deep_purple: { 800: "#552990" },
+        red: { 500: "#ff472e", A700: "#ff0000" },
+        green: { 800: "#009a08" },
+        black: { 900: "#000000", "900_3f": "#0000003f" },
+        yellow: {
+          700: "#ffbb22",
+          900: "#e27625",
+          "900_02": "#e17726",
+          "900_01": "#f5841f",
+          "900_03": "#e27525",
+        },
+        deep_orange: { 500: "#ff512f", 800: "#cc6228" },
+        purple: { 400: "#a566a6", 900: "#542d72" },
+        blue_gray: {
+          100: "#d9d9d9",
+          900: "#233447",
+          "900_01": "#333333",
+          "900_87": "#33333387",
+          "900_63": "#33333363",
+          "900_5e": "#3333335e",
+        },
+        gray: {
+          400: "#d5bfb2",
+          600: "#71706c",
+          900: "#18181a",
+          "900_02": "#1b1b1e",
+          "900_03": "#23272d",
+          "600_87": "#71706c87",
+          "900_01": "#161616",
+          "600_63": "#71706c63",
+          "600_5e": "#71706c5e",
+          "400_01": "#c0ac9d",
+        },
+        lime: { 900: "#763e1a" },
+        orange: { 600: "#fd8b0e" },
+      },
+      backgroundImage: {
+        gradient: "linear-gradient(138deg ,#ffffff,#ffffffcc)",
+        gradient1: "linear-gradient(90deg ,#552990,#a566a6)",
+      },
+      boxShadow: { bs: "0px 4px  4px 0px #0000003f" },
+      fontFamily: {
+        quantagroteskpro: "Quanta Grotesk Pro",
+        spacegrotesk: "Space Grotesk",
+      },
+    },
+  },
+  plugins: [require("@tailwindcss/forms")],
+};
